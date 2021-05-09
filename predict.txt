@@ -1,0 +1,16 @@
+data1:label=0,prediction:0		data2:label=0,prediction:0		data3:label=0,prediction:0		data4:label=0,prediction:0		
+data5:label=0,prediction:0		data6:label=0,prediction:0		data7:label=0,prediction:0		data8:label=0,prediction:0		
+data9:label=0,prediction:0		data10:label=0,prediction:0		data11:label=0,prediction:0		data12:label=0,prediction:0		
+data13:label=0,prediction:0		data14:label=0,prediction:0		data15:label=0,prediction:0		data16:label=0,prediction:0		
+data17:label=0,prediction:0		data18:label=0,prediction:0		data19:label=0,prediction:0		data20:label=0,prediction:0		
+data21:label=1,prediction:1		data22:label=1,prediction:1		data23:label=1,prediction:1		data24:label=1,prediction:1		
+data25:label=1,prediction:1		data26:label=1,prediction:1		data27:label=1,prediction:1		data28:label=1,prediction:1		
+data29:label=1,prediction:1		data30:label=1,prediction:1		data31:label=1,prediction:1		data32:label=1,prediction:1		
+data33:label=1,prediction:1		data34:label=1,prediction:1		data35:label=1,prediction:1		data36:label=1,prediction:1		
+data37:label=1,prediction:1		data38:label=1,prediction:1		data39:label=1,prediction:0		data40:label=1,prediction:1		
+data41:label=2,prediction:1		data42:label=2,prediction:1		data43:label=2,prediction:1		data44:label=2,prediction:1		
+data45:label=2,prediction:1		data46:label=2,prediction:1		data47:label=2,prediction:1		data48:label=2,prediction:1		
+data49:label=2,prediction:1		data50:label=2,prediction:1		data51:label=2,prediction:1		data52:label=2,prediction:1		
+data53:label=2,prediction:1		data54:label=2,prediction:1		data55:label=2,prediction:1		data56:label=2,prediction:1		
+data57:label=2,prediction:1		data58:label=2,prediction:1		data59:label=2,prediction:1		data60:label=2,prediction:1		
+accuracy:0.65
